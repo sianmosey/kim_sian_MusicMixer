@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: #a0a1d0;
+}
+
+.mainHeader {
+    width: 965px;
+    height: 195px;    
+    position: relative;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 108px;
+    margin-left: auto; 
+}
+
+#tittle {
+    height: 195px;
+}
+
+.mainHeader img {  
+    width: 422px;
+    height: 240px;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 22px;
+    }  
+
