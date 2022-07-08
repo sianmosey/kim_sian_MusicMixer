@@ -1,0 +1,120 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: #a0a1d0;
+}
+
+p {
+    color: #000000;
+}
+
+@font-face {
+    font-family: 'chelaone-regular';
+    src: url('../fonts/chelaone-regular-webfont.woff'),
+         url('../fonts/chelaone-regular.webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'chelaone-regular', Arial, sans-serif;
+    font-size: 70px;
+    color: #000000;
+
+}
+
+.mainHeader {
+    width: 965px;
+    height: 195px;    
+    position: relative;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 108px;
+    margin-left: auto; 
+}
+
+#tittle {
+    height: 195px;
+}
+
+.mainHeader img {  
+    width: 422px;
+    height: 240px;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 22px;
+ }  
+
+ #container {
+    margin: 0 auto;
+    width: 970px;
+    height: 760px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dec {
+    background-color:#e576ad;
+    background: #e576ad;
+    color: #e576ad;
+}
+
+.cat {
+    background-color:#e576ad;
+    background: #e576ad;
+    color: #e576ad;
+}
+
+#iconButtons {
+    height: 717px;
+    width: 185px;
+    background-color: #e576ad;
+    background: #e576ad;
+    color: #e576ad;
+    display: flex;
+    flex-direction: column;
+}
+
+#iconButtons img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+#cakeCon {
+    width: 400px;
+    height: 684px;
+    padding: 30px 95px 0px 95px;
+    background-color: #f0c7dc;
+    position: relative;
+}
+
+#iconsCon {
+    width: 145px;
+    height: 717px;
+    background-color: #e576ad;
+    background: #e576ad;
+    color: #e576ad;
+    padding: 0px 30px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
